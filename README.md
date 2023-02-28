@@ -1,4 +1,4 @@
-# Projeto-Simualdor-FactoryIO
+# Projeto-Simulador-FactoryIO
 
 Autor: Hadler Henrique Tempesta  
 Orientação: Prof. Dr. Juliano Coêlho Miranda  
