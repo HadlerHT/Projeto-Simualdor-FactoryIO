@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Gateway
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Gateway	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+configRTU	KEYWORD2
+configTCP	KEYWORD2
+run		KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+GATEWAY_CONNECTED	LITERAL1
+MISSING_PARAMETERS	LITERAL1
+HARDWARE_NOT_FOUND	LITERAL1
+FAILED_TO_CONNECT	LITERAL1
+KEEP_TRYING	LITERAL1
+DATA_VALIDATION	LITERAL1
+RTU_TO_TCP_PIN	LITERAL1
+TCP_TO_RTU_PIN	LITERAL1
+CONNECTION_PIN	LITERAL1
+
