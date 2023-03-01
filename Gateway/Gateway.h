@@ -19,8 +19,8 @@
 
 //Configuration
 //#define DATA_VALIDATION
-#define SERIAL_FEEDBACK
-//#define HARDWARE_FEEDBACK
+//#define SERIAL_FEEDBACK
+#define HARDWARE_FEEDBACK
 
 #if defined(HARDWARE_FEEDBACK)
 #define RTU_TO_TCP_PIN 2
